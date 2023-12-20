@@ -1,0 +1,74 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.externalToolBuilders/
+*.launch
+.pydevproject
+.cproject
+.autotools
+.factorypath
+.buildpath
+.target
+.tern-project
+.texlipse
+.springBeans
+.recommenders/
+.apt_generated/
+.apt_generated_test/
+.cache-main
+.scala_dependencies
+.worksheet
+
+# Spring Boot Tooling
+.sts4-cache/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+*.iml
+.idea_modules/
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled files
+*.class
+*.jar
+
+# Application files
+*.exe
+*.dmg
+*.out
+
+# Ignore the APK file
+src/test/resources/builds/app-debug.apk
