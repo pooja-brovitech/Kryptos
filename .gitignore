@@ -70,5 +70,14 @@ target/
 *.dmg
 *.out
 
-# Ignore the APK file
+# Ignore APK files
+src/test/resources/builds/*.apk
+
+# Ignore large files (exceeding 100 MB)
+*.zip
+*.tar.gz
+*.rar
+*.exe
+*.dmg
+*.out
 src/test/resources/builds/app-debug.apk
